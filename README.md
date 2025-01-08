@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Palabhishek1
 - 👀 I’m interested in learning new creative thimgs 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on .. 
-- 📫 How to reach me follow my insta==abhishek_k_pal
+- 🌱 I’m currently learning javascript and react
+- 💞️ I’m looking for my first job or internship 
+- 📫 How to reach me , abhishekpal.23.2002@gmail.com
+-     follow my insta==abhishek_k_pal
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Dophins are mammals not a fish
 
 <!---
 Palabhishek1/Palabhishek1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
