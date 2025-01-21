@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palabhishek1
-- 👀 I’m interested in learning new creative thimgs 
+- 👀 I’m interested in learning new creative things 
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking for my first job or internship 
 - 📫 How to reach me , abhishekpal.23.2002@gmail.com
